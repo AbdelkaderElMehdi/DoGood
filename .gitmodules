@@ -1,0 +1,4 @@
+[submodule "Front"]
+	path = Front
+	url = ./Front/
+	branch = master
